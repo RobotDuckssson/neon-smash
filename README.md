@@ -1,6 +1,6 @@
 # NEON SMASH
 
-A neon-arcade stress-relief game. Shoot glowing targets before their countdown ring runs out and watch them shatter into light. No installs, no dependencies — it's a single HTML file.
+A neon-arcade stress-relief game. Shoot glowing targets before their countdown ring runs out and watch them shatter into light. No installs, no dependencies — it's a single HTML file. Aim towards be played with in VR. Use your OCulus and get he most of the game.
 
 ## Play
 
